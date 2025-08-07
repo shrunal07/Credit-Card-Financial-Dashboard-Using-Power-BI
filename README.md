@@ -14,7 +14,8 @@ Monitor performance KPIs like delinquency and activation rates
 
 
 ### Tools & Technologies:
-SQL
+SQL (SSMS)
+
 Power BI Desktop
 
 Data cleaning & modeling within Power BI
